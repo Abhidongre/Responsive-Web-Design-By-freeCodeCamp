@@ -1,0 +1,93 @@
+h1{
+    text-align: center;font-weight: 900;font-family: Georgia, 'Times New Roman', Times, serif;font-size: 40px;margin-top:0;
+    margin-bottom: 15px;
+}
+
+h2{
+    text-align: center;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: 30px;
+}
+
+p{
+  text-align: center;
+}
+
+.menu {
+  width: 80%;
+  background-color: rgb(246, 208, 104);
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(5, 15, 33);
+  padding: 20px;
+  margin-top: 50px;
+  max-width: 600px;
+  border-radius: 20px;
+  max-height: fit-content;
+}
+
+body{
+  background-image: url(images/beans.jpg);
+  font-family: sans-serif;
+  padding: 20px;
+
+}
+
+.flavor,.dessert{
+  text-align: left;
+  width: 75%
+}
+
+.price{
+  text-align: right;
+  width: 25%;
+}
+
+.item p{
+  font-size: 18px;;
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.established{
+  font-style: italic;
+}
+
+hr{
+  height: 2px;
+  background-color: rgb(243, 238, 235);
+  border-color: rgb(250, 205, 83);
+}
+.bottom-line{
+  margin-top:25px;
+}
+
+img{
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: -25px;
+}
+
+/* FOOTER */
+footer{
+  font-size:14px;
+}
+
+a {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover{
+  color:brown
+}
+
+a:active{
+  color:brown
+}
+
+.address{
+  margin-bottom:5px;
+}
